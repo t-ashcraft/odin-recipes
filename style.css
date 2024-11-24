@@ -1,0 +1,20 @@
+* {
+    background-color: aliceblue;
+}
+h1 {
+    background-color: beige;
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li {
+    font-size: smaller;
+    color: darkblue;
+    font-weight: bold;
+}
+.optional {
+    font-weight: lighter;
+    color:darkcyan
+}
